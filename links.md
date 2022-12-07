@@ -4,24 +4,24 @@ https://paste.rs/B97
 
 https://paste.rs/zML
 
-mkdir assetsc
+```mkdir assets```
 
-cd assets/
+```cd assets/```
 
 https://paste.rs/iaj
 
 https://paste.rs/r6W
 
-sudo apt update
+```sudo apt update```
 
-cd ..
+```cd ..```
 
-sugar create-config
+```sugar create-config```
 
 nft.storage
 
-sugar upload
+```sugar upload```
 
-sugar deploy
+```sugar deploy```
 
-sugar verify
+```sugar verify```
